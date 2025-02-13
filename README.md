@@ -2,7 +2,9 @@
 
 Void Runner é um jogo espacial emocionante, onde o jogador controla uma nave em um ambiente repleto de obstáculos perigosos e itens valiosos. O objetivo é destruir o máximo possível de obstáculos, coletar itens e sobreviver pelo maior tempo possível, acumulando pontos tanto pelas destruições quanto pela quantidade de itens coletados e pelo tempo de sobrevivência. 
 
-O jogador deve manobrar a nave para desviar dos obstáculos, movendo-se para a direita ou para a esquerda, enquanto tenta manter a nave intacta. A qualquer momento, uma colisão com um obstáculo resultará na perda do jogo. 
+O jogador deve manobrar a nave para desviar dos obstáculos, movendo-se para a direita ou para a esquerda, enquanto tenta manter a nave intacta. A qualquer momento, uma colisão com um obstáculo resultará na perda do jogo.
+
+- [Repositório original](https://github.com/pedroguswander/GAME_PIF)
 
 # Imagens do Jogo
 
@@ -63,13 +65,13 @@ sudo apt install git
 1. Clone o repositório:
 
 ```bash
-git clone https://github.com/pedroguswander/GAME_PIF.git
+git clone git@github.com:FernandoCavalcantii/void_runner.git
 ```
 
 2. No terminal, acesse a pasta raiz do projeto (GAME_PIF):
 
 ```bash
-cd GAME_PIF
+cd void_runner
 ```
 
 3. Compile o jogo:
