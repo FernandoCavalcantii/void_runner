@@ -1,5 +1,7 @@
 # Bem-vindo(a) ao repositório do Void Runner!
 
+Este projeto foi um dos escolhidos para ser apresentado na ***Mostra Tech Design da CESAR School 2024.2***.
+
 Void Runner é um jogo espacial emocionante, onde o jogador controla uma nave em um ambiente repleto de obstáculos perigosos e itens valiosos. O objetivo é destruir o máximo possível de obstáculos, coletar itens e sobreviver pelo maior tempo possível, acumulando pontos tanto pelas destruições quanto pela quantidade de itens coletados e pelo tempo de sobrevivência. 
 
 O jogador deve manobrar a nave para desviar dos obstáculos, movendo-se para a direita ou para a esquerda, enquanto tenta manter a nave intacta. A qualquer momento, uma colisão com um obstáculo resultará na perda do jogo.
